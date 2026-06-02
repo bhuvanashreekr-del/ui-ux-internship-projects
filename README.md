@@ -23,3 +23,16 @@ This repository contains UI/UX dashboard projects developed during my 1-Month In
 * Dashboard Design
 * User Interface Prototyping
 * GitHub
+
+
+## About This Project
+
+These dashboard interfaces were created during my UI/UX Internship at Codec Technologies.
+
+The XAI Dashboard focuses on visualizing AI decision-making processes and explainability metrics.
+
+The EHR Dashboard focuses on healthcare data visualization, patient monitoring, and medical record management.
+
+## Author
+
+Bhuvanashree K R
