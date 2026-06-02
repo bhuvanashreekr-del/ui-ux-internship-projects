@@ -10,11 +10,19 @@ This repository contains UI/UX dashboard projects developed during my 1-Month In
 * Built using React JSX
 * Designed to visualize AI decision-making processes
 
+## XAI Dashboard Preview
+
+![XAI Dashboard](xai-dashboard.png)
+
 ### 2. EHR Dashboard
 
 * Electronic Health Record Dashboard UI
 * Built using React JSX
 * Designed for healthcare data visualization
+
+* ## EHR Dashboard Preview
+
+![EHR Dashboard](ehr-dashboard.png)
 
 ## Skills Used
 
